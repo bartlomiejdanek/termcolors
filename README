@@ -1,0 +1,6 @@
+xterm supports only 256 colors (echo "XTerm.VT100*color255: on")
+other terms (like gnome-terminal) support 65536 colors
+
+preview:
+
+less | colors
